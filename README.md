@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 
 This assignment is intended to have you start working with stacks, queues, and linked lists.  
 There are several parts to the assignment, each described below.
