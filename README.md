@@ -126,6 +126,7 @@ The assignment is worth 100 total points, broken down as follows:
 * 20 points: `list_reverse()` works as described above
 * 30 points: all functions in your queue-from-stacks implementation correctly implement a queue
 * 30 points: all functions in your stack-from-queues implementation correctly implement a stack
+* 20 points: project demo with a ULA 
 
 Note that we will only consider changes to `list_reverse.c`, `queue_from_stacks.c`, and 
 `stack_from_queues.c` when grading your work.  Changes to other files will be ignored.
