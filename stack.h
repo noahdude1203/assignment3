@@ -13,7 +13,6 @@ struct stack;
 /*
  * Creates a new, empty stack and returns a pointer to it.
  */
-struct stack* stack_create();
 
 /*
  * Free all of the memory associated with a stack.
