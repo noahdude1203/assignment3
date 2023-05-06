@@ -56,7 +56,7 @@ int stack_from_queues_isempty(struct stack_from_queues* stack) {
  *   value - the new value to be pushed onto the stack
  */
 void stack_from_queues_push(struct stack_from_queues* stack, int value) {
-
+  
 }
 
 /*
